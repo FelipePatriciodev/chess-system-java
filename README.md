@@ -1,1 +1,1 @@
-![Uploading chess-system-design.png…]()
+![image][Uploading chess-system-design.png…]()
